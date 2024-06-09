@@ -2,7 +2,7 @@
 ![Artboard 1](https://github.com/allaccess28/allaccess28/assets/68475456/3f5c4318-6594-4e11-bdca-df013ee28a71)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allaccess28"/>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=allaccess28&layout=compact)
 <!--
 **allaccess28/allaccess28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
